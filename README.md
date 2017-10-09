@@ -1,0 +1,1 @@
+# spring_jpa_test_assignment
