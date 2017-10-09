@@ -1,0 +1,7 @@
+com/gjj/igden/service/test/BarServiceTest.class
+com/gjj/igden/service/test/daostub/AccountDaoStub.class
+com/gjj/igden/service/test/daostub/BarDaoStub.class
+com/gjj/igden/service/test/daostub/WatchListDescDaoStub.class
+com/gjj/igden/service/test/SpringTextContext.class
+com/gjj/igden/service/test/SpringConfigContextBarService.class
+com/gjj/igden/service/test/WatchListDescServiceTest.class

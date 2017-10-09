@@ -1,0 +1,5 @@
+com/gjj/igden/JPAConfig.class
+com/gjj/igden/WebMvcConfig.class
+com/gjj/igden/WebMvpInitializer.class
+com/gjj/igden/SpringSecurityInitializer.class
+com/gjj/igden/SecurityConfig.class

@@ -1,0 +1,5 @@
+com/gjj/igden/dao/test/BarDaoTest.class
+com/gjj/igden/dao/test/WatchListDaoTest.class
+com/gjj/igden/dao/test/AccountDaoTest.class
+com/gjj/igden/dao/test/AccountDaoImplTest.class
+com/gjj/igden/dao/test/JPATestConfig.class
